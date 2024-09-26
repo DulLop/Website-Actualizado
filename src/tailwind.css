@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.padding-body {
+    justify-content: center;
+}
+
+.body-content {
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
